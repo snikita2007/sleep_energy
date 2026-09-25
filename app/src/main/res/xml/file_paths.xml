@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FileProvider отдаёт наружу только каталог экспорта в кэше. -->
+<paths>
+    <cache-path
+        name="export"
+        path="export/" />
+</paths>

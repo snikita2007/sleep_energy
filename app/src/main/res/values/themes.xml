@@ -1,0 +1,6 @@
+<resources>
+    <!-- Тёмное окно с первого кадра: без белой вспышки при запуске вечером. -->
+    <style name="Theme.SleepEnergy" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/night</item>
+    </style>
+</resources>
